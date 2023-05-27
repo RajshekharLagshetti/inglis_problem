@@ -1,2 +1,2 @@
-# Inglis_problem
-This repo contains MATLAB codes for Inglis Problem which is solved using finite element method. 
+# FEM codes 
+This repo contains MATLAB codes for Inglis Problem  & tapered beam problem which is solved using finite element method. 
