@@ -1,2 +1,2 @@
-# FEM-codes
-This repo contains codes on finite element method studied in the course. 
+# Inglis_problem
+This repo contains MATLAB codes for Inglis Problem which is solved using finite element method. 
